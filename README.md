@@ -7,5 +7,8 @@
 
 #### Fatto questo bisogna creare le sottoreti, per fare questo esercizio bisogna cambiare le subnet mask delle due reti, infatti come potete vedere nell'immagine la subnetmask è "255.255.255.128" 
 
-![Esempio1](./Img/Esempio1.png)
+![Esempio1](./Img/Esempio1.png)  #### Questa è la configurazione del PC di una rete
+
+![Esempio2](./Img/Esempio2.png)  #### Questa è la configurazione del PC dell'altra rete
+
 
