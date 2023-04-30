@@ -5,4 +5,7 @@
 
 ![Subnetting](./Img/Subnetting.png)
 
-#### Fatto questo bisogna creare le sottoreti, per fare questo esercizio bisogna cambiare le subnet mask delle due reti 
+#### Fatto questo bisogna creare le sottoreti, per fare questo esercizio bisogna cambiare le subnet mask delle due reti, infatti come potete vedere nell'immagine la subnetmask è "255.255.255.128" 
+
+![Esempio1](./Img/Esempio1.png)
+
